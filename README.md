@@ -11,7 +11,7 @@ This package implements a waypoint navigation node for a UR10 robot. It features
     * **Red:** Pending Waypoints
     * **Yellow:** Currently Executing
     * **Green:** Completed
-* **Scene :** Spawns a table to simulate the environment, which also demonstrates the obstacle aware planning.
+* **Scene :** Spawns a table to simulate the environment, which also demonstrates the obstacle avoidance.
 
 ## Prerequisites
 

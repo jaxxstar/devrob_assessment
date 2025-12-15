@@ -50,4 +50,4 @@ This package implements a waypoint navigation node for a UR10 robot. It features
     ```
 
 ## Configuration
-* The Waypoints are specified in `config/waypoints.yaml` * 
+* The Waypoints are specified in `config/waypoints.yaml` 
